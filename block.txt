@@ -185,7 +185,6 @@
 *://biwatin.com/*
 *://biz-collections.com/*
 *://bleepcoder.com/*
-*://blog.51cto.com/*
 *://blog.51yip.com/*
 *://blog.baibaota.com/*
 *://blog.codecamp.jp/*
